@@ -1,0 +1,64 @@
+#outerbox
+{
+	
+	width:800px;
+	overflow:hidden;
+	padding-top: 100px;
+	margin-left:  40px;
+}
+#sliderbox
+{
+	position:relative;
+	width:2800px;
+	animation-name:power;
+	animation-duration:20s;
+	animation-iteration-count:infinte;
+	animation: power 20s inifinite;
+	
+}
+
+#sliderbox img {
+	float:left;
+	
+	
+}
+@keyframes power {
+	
+	0%
+	{
+    left:0px;
+	}
+		
+		20%	
+		{
+			left:0px;
+		}
+		25%
+		{
+					left:-700px;
+		}
+		45%
+		{
+			left:-700px;
+		}
+		50%
+		{
+			left:-1400px;
+		}
+	   70%
+	   {
+		   left:-1400px;
+	   }
+	   75%
+	   {
+		  left:-2100px; 
+	   }
+	   95%
+	   {
+		   left:-2100px;
+	   }
+	   100%
+	   {
+		   left:-2800px;
+	   }
+	   

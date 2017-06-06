@@ -1,0 +1,185 @@
+.logo {
+	background-color: white;
+	padding-top: 15px;
+	padding-left: 70px;
+	margin-left:40px;
+	
+	
+	
+	}
+	
+	 
+	 
+	background{
+		position:auto;	
+	}
+	#header {
+		padding-right: 70px;
+		
+	}
+	
+	h3 {
+		display: inline-block;
+		padding-left: 200px;
+		color: #030D4F;
+		font-size: 40px;
+	} 
+	h5 {
+		display: inline-block;
+		padding-left:  200px;
+		
+	}
+	
+ul li{
+	background-color: #030D4F;
+      border: 1px solid white;
+	  width: 200px;
+	  height: 30px;
+	  line-height:30px;
+	  float:left;
+	  text-align: center;
+	  list-style: none;
+	  
+	
+	 
+	  
+	  }
+ul li a{
+	color:white;
+	text-decoration: none;
+	display: block;
+	
+}
+ ul li a:hover{
+ 
+	 background-color: skyblue;
+	 
+	 
+ }
+ 
+ .navigation {
+	 margin-top:0px;
+		 
+ }
+ 
+@import url(http://fonts.googleapis.com/css?family=Questrial);
+	
+	body{
+		padding-top: 50px;
+		padding-left:85px;
+		padding-right:80px
+	
+		background: #24282c;
+		font-family: "Questrial", Arial, Helvetica, sans-serif;
+	}
+
+
+	
+	
+body{
+ 
+  background-image: url("grey-linen.jpg");
+}
+
+.form-wrapper {
+  width:350px;
+  height:390px;
+  background:#fff;
+  margin:80px auto ;
+  box-shadow:0px 1px 8px #BEBEBE;
+  border-top:4px solid #CEECEF;
+  
+}
+
+.tab-btn {
+  width:100px;
+  height:40px;
+  background-color:#030D4F;
+  float:right;
+  border-radius:6px;
+  margin:22px 22px;
+  text-align:center;
+  line-height:40px;
+  cursor:pointer;
+  transition:200ms;
+  color:#FFF;
+    font-family:Arial;
+    font-size:20px;
+  }
+  .tab-btn:hover {
+    color:#CEECEF;
+  }
+
+.content{
+  display:none;
+}
+
+.form-wrapper .active{
+  display:block !important;
+}
+
+form{
+  width:280px;
+  margin:10px auto 0px auto;}
+  
+  
+  form input{
+    width:269px;
+    height:45px;
+    margin-bottom:10px;
+    font-size:20px;
+    padding-left:8px;}
+  form .btn{
+    background-color:#030D4F;
+    border:none;
+    width:280px;
+    border-radius:6px;
+    color:#FFF;
+    transition:300ms;
+    cursor:pointer;}
+    form .btn:hover{
+      color:#fff;}
+  p{
+    color:#030D4F;
+    text-align:center;
+    font-family:Arial;
+    font-size:14px;
+    line-height:1.5em;}
+  .checkbox{
+    width:20px;
+    height:30px;}
+  label{
+    position:relative;
+    top:-10px;
+    color:#030D4F;
+    margin-top:-20px;
+    font-family:Arial;
+    font-size:14px;
+    line-height:1.5em;}
+	
+	#form1 {
+		padding-left: 850px;
+		margin-top: -430px;
+	}
+	
+
+	footer {
+		display: inline-block;
+		padding-left: 450px;
+		
+	}
+	
+
+	p {
+		background-color: white;
+	}
+
+
+
+
+
+
+
+
+
+
